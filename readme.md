@@ -22,7 +22,7 @@ started:
    ``` bash
    python smi2pdb.py
    ```
-   Note: The capsule in [Code Ocean](https://site.codeocean.com/) is preconfigured to be executable as-is. Simply
+   Note: The capsule in [Code Ocean (Capsule #9730644)](https://codeocean.com/capsule/9730644/tree) is preconfigured to be executable as-is. Simply
    run `smi2pdb.py`.
 2.
 `smi2pdb.py` initiates the SMI2PDB application, utilizing the
